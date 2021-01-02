@@ -1,5 +1,8 @@
 # eventyay-docs
 
+installation on ubuntu - https://jekyllrb.com/docs/installation/ubuntu/
+
+
 Install dependenciesPermalink
 Install Ruby and other prerequisites:
 
