@@ -14,7 +14,7 @@ source ~/.bashrc
 
 Finally, install Jekyll and Bundler:
 
-gem install jekyll bundler  
+```gem install jekyll bundler ``` 
 
 That’s it! You’re ready to start using Jekyll.
 
