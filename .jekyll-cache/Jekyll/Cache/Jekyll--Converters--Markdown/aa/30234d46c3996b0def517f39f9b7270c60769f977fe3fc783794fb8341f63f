@@ -1,0 +1,51 @@
+I"n<h1 id="how-do-i-sell-tickets-online">How do I sell tickets online?</h1>
+
+<p>You need to create an event before you can start selling tickets online. To learn how to create an event, check out <a href="http://support.eventyay.com/event-setup/How-can-I-create-an-event.html">How can I create an event on Eventyay</a>. Once you have done so, follow these steps to set up tickets and payment for your event.</p>
+
+<ol>
+  <li>
+    <p>Log in to your acocunt on <strong>Eventyay</strong>. Then select <code class="language-plaintext highlighter-rouge">Manage Events</code> from the dropdown menu under your profile.</p>
+
+    <p><img src="../images/How-do-I-sell-tickets-online-1.png" alt="Sell tickets online" /></p>
+  </li>
+  <li>
+    <p>Go to the event you want to sell tickets and click on <code class="language-plaintext highlighter-rouge">Edit</code>.</p>
+
+    <p><img src="../images/How-do-I-sell-tickets-online-2.png" alt="Sell tickets online" /></p>
+  </li>
+  <li>
+    <p>You will be directed to a page where you can edit <code class="language-plaintext highlighter-rouge">Basic Details</code> for your event. Scroll down to <code class="language-plaintext highlighter-rouge">Ticketing System</code>. There are 3 different ticket categories you can choose from: <strong>Free Ticket</strong>, <strong>Paid Ticket</strong> and <strong>Donation Ticket</strong>. You can add different ticket types for each category, as below:</p>
+
+    <p><img src="../images/How-do-I-sell-tickets-online-4.png" alt="Sell tickets online" /></p>
+  </li>
+</ol>
+
+<p>Make sure to provide input for all required fields, including: <code class="language-plaintext highlighter-rouge">Ticket name</code>, <code class="language-plaintext highlighter-rouge">Price</code> (except for <strong>Free Ticket</strong>) and <code class="language-plaintext highlighter-rouge">Quantity</code>. Then you can click on <code class="language-plaintext highlighter-rouge">Settings</code> to configure other information (of each ticket) as in below:</p>
+
+<p><img src="../images/How-do-I-sell-tickets-online-5.png" alt="Sell tickets online" /></p>
+
+<p><em>Notice:</em></p>
+
+<ul>
+  <li>Platform fees will always be included for paid tickets.</li>
+  <li>You need to set the <strong>start/end</strong> - <strong>date/time</strong> for your tickets correctly.</li>
+  <li>You can control how many tickets can be purchased in one order by setting the <strong>min/max</strong> number.</li>
+</ul>
+
+<ol>
+  <li>
+    <p>After setting up <code class="language-plaintext highlighter-rouge">Ticketing System</code>, you need to <code class="language-plaintext highlighter-rouge">Add Payment Details</code> (as below) in order to start selling tickets on <strong>Eventyay</strong>.</p>
+
+    <p><img src="../images/How-do-I-sell-tickets-online-6.png" alt="Sell tickets online" /></p>
+  </li>
+</ol>
+
+<p><em>Notice:</em></p>
+<ul>
+  <li>Select <strong>country</strong> where your payment accounts are registered in and select the <strong>currency</strong> you want to apply for your tickets.</li>
+  <li>Choose payment methods: <strong>online/offline</strong> or both and follow instruction in each method to complete the set-up.</li>
+  <li>Add <strong>tax information</strong> if needed</li>
+</ul>
+
+<p>After you finish, click <code class="language-plaintext highlighter-rouge">Save</code> to save your changes or publish your changes right away using the <code class="language-plaintext highlighter-rouge">Publish</code> button. You can also preview your changes in draft stage, simply by clicking <code class="language-plaintext highlighter-rouge">View</code> button. You’ll see how your event would look like on the public events page once published.</p>
+:ET

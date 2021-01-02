@@ -1,0 +1,20 @@
+I"g<h1 id="how-can-i-contribute-and-help-to-improve-this-support-site">How can I contribute and help to improve this support site</h1>
+
+<p>We always welcome developers and contributors who would like to help improve the documentation.</p>
+
+<p>We are hosting the source files for this documentation site on GitHub. To help building and improving the eventyay support website please visit the <a href="https://github.com/fossasia/support.eventyay.com">code repository</a> of the site and help to solve issues that are listed in the tracker.</p>
+
+<p>You can check out the markdown code that this website is using and edit or fix articles by making a pull request.</p>
+
+<p>Below other questions that are relevant if you want to contribute to the documentation project.</p>
+
+<h2 id="what-is-the-naming-convention-of-articles-and-images">What is the naming convention of articles and images?</h2>
+
+<p>Articles and images should be named according to the main question they are dealing with.</p>
+
+<p>For example an image that would be added to this very page here should be named “How-can-I-contribute-and-help-to-improve-this-support-site-1.png”. If there is a second image on the same page it should be named “How-can-I-contribute-and-help-to-improve-this-support-site-2.png” and so on.</p>
+
+<h2 id="what-is-the-location-where-articles-and-images-should-be-added">What is the location where articles and images should be added</h2>
+
+<p>An article should be added to the folder that best describes the category of the question and listed on the main page of the site. An image should always be added into the /image folder of the root.</p>
+:ET

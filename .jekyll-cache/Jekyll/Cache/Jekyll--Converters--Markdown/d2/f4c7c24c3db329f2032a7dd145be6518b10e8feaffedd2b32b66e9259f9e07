@@ -1,0 +1,59 @@
+I"	<h1 id="how-to-add-additional-information-such-as-event-type-links-refund-policy-terms-and-conditions-and-code-of-conduct">How to add additional information such as event type, links, refund policy, terms and conditions, and code of conduct?</h1>
+
+<h2 id="1-log-in">1. Log in</h2>
+
+<p>First, you need to log in using <code class="language-plaintext highlighter-rouge">username</code> and <code class="language-plaintext highlighter-rouge">password</code>.
+<img src="/images/Log-in-page.png" alt="Add additional information" /></p>
+
+<h2 id="2-select-manage-event">2. Select manage event</h2>
+<p>Next, on the <code class="language-plaintext highlighter-rouge">log in</code> button, select <code class="language-plaintext highlighter-rouge">manage event</code>.
+<img src="/images/How-to-add-additional-information-manage-event-tab.png" alt="Add additional information" /></p>
+
+<h2 id="3-editing">3. Editing</h2>
+<p>If you have already created your event, select the event you want to make the changes, select <code class="language-plaintext highlighter-rouge">edit</code>.
+<img src="/images/How-to-add-additional-information-edit-button.png" alt="Add additional information" /></p>
+
+<h3 id="a-how-to-add-event-type">a. How to add event type?</h3>
+<p>To add event types, simply scroll down under <code class="language-plaintext highlighter-rouge">ticketing</code>, you will immediately see <code class="language-plaintext highlighter-rouge">event type</code> menu bar.
+Event types are arranged alphabetically, you can click and scroll down for to choose the event which fits your category.</p>
+
+<p><img src="/images/How-to-add-additional-information-Adding-Event-type-1.png" alt="Add additional information" /></p>
+
+<p><img src="/images/How-to-add-additional-information-Adding-Event-type-2.png" alt="Add additional information" /></p>
+
+<h3 id="b-how-to-add-social-media-links">b. How to add social media links?</h3>
+<p>Social media link is located right before the <code class="language-plaintext highlighter-rouge">ticketing system</code>.</p>
+
+<p><img src="/images/How-to-Add-additional-information-links-1.png" alt="Add additional information" /></p>
+
+<p>Select the <code class="language-plaintext highlighter-rouge">+</code> button, if you want to add more links, or <code class="language-plaintext highlighter-rouge">-</code> if you want to delete it.
+You can just need to put any social media links <code class="language-plaintext highlighter-rouge">facebook</code>, <code class="language-plaintext highlighter-rouge">twitter</code>, <code class="language-plaintext highlighter-rouge">instagram</code>, <code class="language-plaintext highlighter-rouge">linkedin</code>, <code class="language-plaintext highlighter-rouge">github</code>, ect. The system will automatically understand the links and the logos will appear accordingly.</p>
+
+<p><img src="/images/How-to-Add-additional-information-links-2.png" alt="Add additional information" /></p>
+
+<h3 id="c-how-to-add-refund-policy">c. How to add refund policy?</h3>
+
+<p>To add <code class="language-plaintext highlighter-rouge">refund policy</code>, you need to select <code class="language-plaintext highlighter-rouge">additional info</code> on the menu bar. Then, you can see the <code class="language-plaintext highlighter-rouge">refund policy</code> box.</p>
+
+<p><img src="/images/How-to-add-additional-information-refund-policy-1.png" alt="Add additional information" /></p>
+
+<p>Put the information you need, then click <code class="language-plaintext highlighter-rouge">save as draft</code> or <code class="language-plaintext highlighter-rouge">publish</code>.</p>
+
+<p><img src="/images/How-to-add-additional-information-refund-policy-2.png" alt="Add additional information" /></p>
+
+<h3 id="d-how-to-add-terms-and-conditions">d. How to add terms and conditions?</h3>
+
+<p>We are in the progress of adding this feature.</p>
+
+<h3 id="e-how-to-add-code-of-conduct">e. How to add code of conduct?</h3>
+
+<p>To add code of conduct, scroll down, then slide the cursor across, you then see the <code class="language-plaintext highlighter-rouge">code of conduct</code> box (we have also provide a basic word editing tool for bullets or numbering as well). Enter the information you need, click <code class="language-plaintext highlighter-rouge">save</code> or <code class="language-plaintext highlighter-rouge">publish</code>.</p>
+
+<p>To add <code class="language-plaintext highlighter-rouge">code of conduct</code>, scroll down right below event types, click the button <code class="language-plaintext highlighter-rouge">code of conduct</code>.
+<img src="/images/How-to-add-addittional-infomation-code-of-conduct-1.png" alt="Add additional information" /></p>
+
+<p>Simply type your <code class="language-plaintext highlighter-rouge">code of conduct</code> in the box appear below.
+<img src="/images/How-to-add-addittional-infomation-code-of-conduct-2.png" alt="Add additional information" /></p>
+
+<p>Then you can choose to <code class="language-plaintext highlighter-rouge">save as draft</code> or <code class="language-plaintext highlighter-rouge">publish</code> your event.</p>
+:ET

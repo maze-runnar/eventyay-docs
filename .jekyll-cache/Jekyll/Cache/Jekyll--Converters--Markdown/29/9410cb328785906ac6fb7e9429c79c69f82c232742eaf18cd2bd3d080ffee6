@@ -1,0 +1,50 @@
+I"L<h1 id="how-to-confirm-pending-orders">How to confirm pending orders?</h1>
+
+<p>Everytime an attendee places a ticket, that ticket will be accounted as <code class="language-plaintext highlighter-rouge">placed</code> ticket.</p>
+
+<p><img src="/images/How-to-confirm-pending-orders-placed-tickets.png" alt="Confirm pending orders" /></p>
+
+<p>Therefore, tickets need to be confirmed before they can be accounted as sales. This will help organisers manage their sales and check if the payments have gone through or not. In order to confirm pending orders, please follow these steps:</p>
+
+<h2 id="step-1-log-in">Step 1: Log in</h2>
+<p>On Evenyay.com, log in using your <code class="language-plaintext highlighter-rouge">username</code> and <code class="language-plaintext highlighter-rouge">password</code>.</p>
+
+<p><img src="/images/Log-in-page.png" alt="Confirm pending orders" /></p>
+
+<h2 id="step-2-manage-events">Step 2: Manage events</h2>
+<p>On the top right corner, select <code class="language-plaintext highlighter-rouge">Manage events</code> and that will take you to the Manage Event main page.</p>
+
+<p><img src="/images/Manage-events-bar.png" alt="Confirm pending orders" /></p>
+
+<h2 id="step-3-event-dashboard">Step 3: Event dashboard</h2>
+<p>Choose the event which you would like to confirm the order, select <code class="language-plaintext highlighter-rouge">Event dashboard</code>.</p>
+
+<p><img src="/images/How-to-confirm-pending-orders-6.png" alt="Confirm pending orders" /></p>
+
+<h2 id="step-4-tickets-management">Step 4: Tickets management</h2>
+<p>You are now on the Event Management main page.</p>
+
+<p><img src="/images/How-to-confirm-pending-orders-2.png" alt="Confirm pending orders" /></p>
+
+<p>Select <code class="language-plaintext highlighter-rouge">tickets</code>, this will allow you to view your <code class="language-plaintext highlighter-rouge">order status</code>, <code class="language-plaintext highlighter-rouge">total orders</code> and <code class="language-plaintext highlighter-rouge">total sales</code>. As we can see, a placed ticket has been accounted under <code class="language-plaintext highlighter-rouge">PENDING</code>. So we need to confirm that ticket onced payment is received.</p>
+
+<p><img src="/images/How-to-confirm-pending-orders-3.png" alt="Confirm pending orders" /></p>
+
+<p>To continue, select <code class="language-plaintext highlighter-rouge">placed</code>, you will have the recorded <code class="language-plaintext highlighter-rouge">placed</code> tickets which are still waiting to be confirmed.</p>
+
+<p><img src="/images/How-to-confirm-pending-orders-4.png" alt="Confirm pending orders" /></p>
+
+<h2 id="step-5-confirm-pending-tickets">Step 5: Confirm pending tickets</h2>
+<p>To confirm, select the tick <code class="language-plaintext highlighter-rouge">✔</code> symbol to confirm.</p>
+
+<p><img src="/images/How-to-confirm-pending-orders-5.png" alt="Confirm pending orders" /></p>
+
+<p>Then, you will be ask to re-confirm once more, click <code class="language-plaintext highlighter-rouge">yes</code>.</p>
+
+<p><img src="/images/How-to-confirm-pending-orders-7.png" alt="Confirm pending orders" /></p>
+
+<p>Finally, you will be able to see the confirmed has now been recorded as <code class="language-plaintext highlighter-rouge">COMPLETED</code>.</p>
+
+<p><img src="/images/How-to-confirm-pending-orders-8.png" alt="Confirm pending orders" /></p>
+
+:ET

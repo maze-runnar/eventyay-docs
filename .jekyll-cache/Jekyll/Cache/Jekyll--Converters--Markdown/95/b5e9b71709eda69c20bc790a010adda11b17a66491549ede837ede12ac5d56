@@ -1,0 +1,99 @@
+I"Y<h1 id="how-can-i-create-an-online-event-on-eventyay">How can I create an online event on Eventyay?</h1>
+
+<ol>
+  <li>Go to <a href="https://eventyay.com">Eventyay.com</a> and click on <strong>CREATE EVENT</strong> button in the middle of the page or on the top right corner.</li>
+</ol>
+
+<p><img src="/images/create-event-button.PNG" alt="Create Event button" /></p>
+
+<ol>
+  <li>Login to your account or register a new one if you haven’t got one.</li>
+</ol>
+
+<p><img src="/images/login_box_new.png" alt="Logging and Registering" /></p>
+
+<ol>
+  <li>Once you have successfully logged in, click on the the <strong>CREATE BUTTON</strong> again and follow the steps below to complete.</li>
+</ol>
+
+<h2 id="adding-basic-details">Adding Basic Details</h2>
+<p>First, fill in the name of your event, in order to create an online event, select <code class="language-plaintext highlighter-rouge">online</code> on the menu bar. 
+In order to create an online event, select <code class="language-plaintext highlighter-rouge">online</code> on the menu bar.</p>
+
+<p><img src="/images/How-can-I-create-an-online-event-online-location-1.png" alt="Create Event Form" /></p>
+
+<p>You will have the options to add an URL for <code class="language-plaintext highlighter-rouge">Live stream</code> or <code class="language-plaintext highlighter-rouge">Webminar</code>, then insert the links into the boxes.</p>
+
+<p><img src="/images/How-can-I-create-an-online-event-online-location-2.png" alt="Create Event Form" /></p>
+
+<p>Fill in your event details such as start, end date and timezone (Make sure you enter that right, so that it appears live!), description (be as detailed as possible!), logo and event’s cover image.</p>
+
+<p><img src="/images/How-can-I-create-an-online-event-basic-info-1.png" alt="Create Event Form" /></p>
+
+<p>Slide the cursor to the right if you wish to add owner/organizer’s details. You can also add more information about the owner/organizer’s details.</p>
+
+<p><img src="/images/How-can-I-create-an-online-event-basic-info-2.png" alt="Create Event Form 2" /></p>
+
+<p>Next, you will need to provide tickets information. Add at least one ticket type to proceed. A details explaination on adding tickets 
+can be found here.</p>
+
+<p>Finally, add any additional details, like the type, topic and license, etc… Click <code class="language-plaintext highlighter-rouge">Forward</code> to go the next step of the event
+creation process.</p>
+
+<p><img src="/images/How-can-I-create-an-online-event-basic-info-3.png" alt="Organizer Details" /></p>
+
+<h2 id="adding-additional-information">Adding additional information</h2>
+
+<p>You can add extra information by putting the social media links such as Facebook, Twitter, Github,ect.</p>
+
+<p>You can also provide information about your <code class="language-plaintext highlighter-rouge">refund policy</code> or <code class="language-plaintext highlighter-rouge">code of conduct</code></p>
+
+<p><img src="/images/How-can-I-create-an-online-event-adding-extra-info-1.png" alt="Attendee Form1" /></p>
+
+<p><img src="/images/How-can-I-create-an-online-event-adding-extra-info-2.png" alt="Attendee Form1" /></p>
+
+<h2 id="attendee-form">Attendee Form</h2>
+
+<p>If you want to collect data of your atteendees, click <code class="language-plaintext highlighter-rouge">Turn on Attendee Form</code>, then select the information you want to collect</p>
+
+<p><img src="/images/How-can-I-create-an-online-event-attendee-form-1.png" alt="Attendee Form1" /></p>
+
+<p><img src="/images/How-can-I-create-an-online-event-attendee-form-2.png" alt="Attendee Form1" /></p>
+
+<p><img src="/images/How-can-I-create-an-online-event-attendee-form-3.png" alt="Attendee Form1" /></p>
+
+<p>Here you can also set certain criteria as required.</p>
+
+<p>Click <code class="language-plaintext highlighter-rouge">Next</code> to go the next step.</p>
+
+<h2 id="sponsors">Sponsors</h2>
+
+<p>If you wish to include Sponsors, click on <code class="language-plaintext highlighter-rouge">turn on sponsors</code>, and then add their details.</p>
+
+<p><img src="/images/How-can-I-create-an-online-event-sponsors-1.png" alt="Sponsors" /></p>
+
+<p><img src="/images/How-can-I-create-an-online-event-sponsors-2.png" alt="Sponsors" /></p>
+
+<p>Click <code class="language-plaintext highlighter-rouge">Next</code> to go the following step.</p>
+
+<h2 id="sessions--speakers">Sessions &amp; Speakers</h2>
+
+<p>Expand your event by adding <code class="language-plaintext highlighter-rouge">Sessions &amp; Speakers</code>information. Click on <code class="language-plaintext highlighter-rouge">Turn on Sessions and Speaker</code>to start. Click here to go to a 
+full detailed section on adding <code class="language-plaintext highlighter-rouge">Sessions &amp; Speakers</code></p>
+
+<p><img src="/images/How-can-I-create-an-online-event-speakers-1.png" alt="Sessions and Speakers" /></p>
+
+<p>If you wish to call for speakers, you can add extra information, and submission deadline. Then, there will be a <code class="language-plaintext highlighter-rouge">submission link</code>, you can copy the link if needed.</p>
+
+<p><img src="/images/How-can-I-create-an-online-event-speakers-2.png" alt="Sessions and Speakers" /></p>
+
+<p>Adding sessions, microlocations and session types</p>
+
+<p>You can use the features of <code class="language-plaintext highlighter-rouge">add custom form field</code> to custom your own form the way you wish, this will apply to <code class="language-plaintext highlighter-rouge">speakers details</code> and <code class="language-plaintext highlighter-rouge">sessions details</code></p>
+
+<p><img src="/images/How-can-I-create-an-online-event-speakers-3.png" alt="Sessions and Speakers" /></p>
+
+<p><img src="/images/How-can-I-create-an-online-event-speakers-4.png" alt="Sessions and Speakers" /></p>
+
+<p>Now you can select <code class="language-plaintext highlighter-rouge">Save draft</code> or <code class="language-plaintext highlighter-rouge">Publish</code> your event.</p>
+:ET

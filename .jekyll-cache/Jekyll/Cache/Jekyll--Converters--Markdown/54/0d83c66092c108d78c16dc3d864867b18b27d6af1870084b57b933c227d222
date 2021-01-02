@@ -1,0 +1,20 @@
+I"¾<h1 id="how-can-i-set-up-the-system-myself">How can I set up the system myself?</h1>
+
+<p>In order to set up the <a href="https://github.com/fossasia?q=open-event">Open Event software suite</a> that is powering <a href="https://eventyay.com">eventyay.com</a> yourself, you need to have a server and knowledge of commandline.</p>
+
+<p>There are installation instructions in the repositories of the <a href="https://github.com/fossasia/open-event-frontend/">Open Event Frontend</a> and the <a href="https://github.com/fossasia/open-event-server/">Open Event Server</a>. Please start to learn by going through the Readme and the installation instructions in the docs folder.</p>
+
+<p>If you would like to talk to developers and contributors about issues you encounter when setting up the system please visit the chat on <a href="https://gitter.im/fossasia/open-event">Gitter.im</a> or the <a href="https://t.me/eventyay">Telegram channel here</a>.</p>
+
+<p>Below is the list of project for different components of the project:</p>
+
+<ol>
+  <li><a href="https://github.com/fossasia/open-event-frontend/">Open Event Frontend</a></li>
+  <li><a href="https://github.com/fossasia/open-event-server/">Open Event Server Backend</a></li>
+  <li><a href="https://github.com/fossasia/open-event-wsgen/">Open Event Website Generator</a></li>
+  <li><a href="https://github.com/fossasia/open-event-attendee-android/">Android Attendee App</a></li>
+  <li><a href="https://github.com/fossasia/open-event-organizer-android/">Android Organizer App</a></li>
+  <li><a href="https://github.com/fossasia/open-event-attendee-ios">iOS Attendee App</a></li>
+  <li><a href="https://github.com/fossasia/open-event-organizer-ios">iOS Organizer App</a></li>
+</ol>
+:ET

@@ -1,0 +1,43 @@
+I"M
+<h1 id="how-to-sell-tickets-on-eventyay">How to sell tickets on eventyay?</h1>
+
+<p>In the article <a href="/event-setup/How-can-I-create-an-event.md">How can I create an event</a>, we have learned that we need to add at least one ticket type to publish the event on <a href="eventyay.com">eventyay.com</a>. 
+In this article, we’ll go into details how we can add and sell tickets.</p>
+
+<p><img src="/images/how-to-sell-ticket1.png" alt="Adding Tickets" /></p>
+
+<h2 id="adding-a-free-ticket-type">Adding a Free Ticket type</h2>
+<p>First, give your ticket a name and define its quantity.</p>
+
+<p><img src="/images/how-to-sell-ticket2.png" alt="Free Ticket" /></p>
+
+<p>Next, click on the <code class="language-plaintext highlighter-rouge">Options</code> button to control other settings of your ticket.</p>
+
+<p><img src="/images/how-to-sell-ticket3.png" alt="Free Ticket" /></p>
+
+<p>Here you can add a description to your ticket, set its <code class="language-plaintext highlighter-rouge">start</code> and <code class="language-plaintext highlighter-rouge">end</code> time, and control whether you want to publish or hide this on the public events page. You can also limit the number of tickets for each order.</p>
+
+<h2 id="adding-a-paid-ticket-type">Adding a Paid Ticket type</h2>
+<p>Firstly, we need to give it a name, define its price, quantity, and set up payment details (country and currency).</p>
+
+<p><img src="/images/how-to-sell-ticket4.png" alt="Paid Ticket" /></p>
+
+<p>Next, click on the <code class="language-plaintext highlighter-rouge">Options</code> button to control other settings of your paid ticket.</p>
+
+<p><img src="/images/how-to-sell-ticket5.png" alt="Paid Ticket" /></p>
+
+<p>Finally, select your payment methods either <code class="language-plaintext highlighter-rouge">Paypal</code>, <code class="language-plaintext highlighter-rouge">Stripe</code>,<code class="language-plaintext highlighter-rouge">Offline</code> payment or all. Additionally, you can add tax and billing
+information to complete setting up this paid ticket.</p>
+
+<p><img src="/images/how-to-sell-ticket6_edited.png" alt="Paid Ticket" /></p>
+
+<h2 id="adding-a-donation-type">Adding a Donation type</h2>
+<p>Similar to the paid ticket type, we need to give it a name, define its price (minimum &amp; maximum), quantity, and set up payment details
+(country and currency).</p>
+
+<p><img src="/images/how-to-sell-ticket7.png" alt="Donation Ticket" /></p>
+
+<p>Next, select your payment methods, add tax and billing information to complete setting up donation ticket.</p>
+
+<p><img src="/images/how-to-sell-ticket6_edited.png" alt="Donation Ticket" /></p>
+:ET

@@ -1,0 +1,57 @@
+I"<h1 id="how-can-i-add-a-form-to-collect-attendee-information">How can I add a form to collect attendee information?</h1>
+
+<p>You need to create an event before you can set up the <code class="language-plaintext highlighter-rouge">Attendee Form</code>. To learn how to create an event, check out <a href="../event-setup/How-can-I-create-an-event.md">How can I create an event on Eventyay</a>. Once you have created your event, follow these steps to add and configure the <code class="language-plaintext highlighter-rouge">Attendee Form</code>.</p>
+
+<ol>
+  <li>Log in to your acocunt on <strong>Eventyay</strong>.</li>
+</ol>
+
+<p><img src="/images/Log-in-page.png" alt="Collect attendee information" /></p>
+
+<ol>
+  <li>Select <code class="language-plaintext highlighter-rouge">Manage Events</code>.</li>
+</ol>
+
+<p><img src="/images/How-can-I-add-a-form-to-collect-attendee-information-Manage-Event-Bar.png" alt="Collect attendee information" /></p>
+
+<ol>
+  <li>Go to the event you want to add <strong>Attendee Form</strong> and click on <code class="language-plaintext highlighter-rouge">Event Dashboard</code></li>
+</ol>
+
+<p><img src="/images/How-can-I-add-a-form-to-collect-attendee-infomation-Event-dashboard.png" alt="Collect attendee information" /></p>
+
+<ol>
+  <li>Select <code class="language-plaintext highlighter-rouge">Attendee Form</code> under <strong>Event setup checklist</strong> column.</li>
+</ol>
+
+<p><img src="/images/How-can-I-add-a-form-to-collect-attendee-information.png" alt="Collect attendee information" /></p>
+
+<ol>
+  <li>Turn on <code class="language-plaintext highlighter-rouge">Attendee Form</code> to collect attendees’ information.</li>
+</ol>
+
+<p><strong>Notice</strong>: The default information required by <strong>Eventyay</strong> includes: <code class="language-plaintext highlighter-rouge">First name</code>, <code class="language-plaintext highlighter-rouge">Last name</code> and <code class="language-plaintext highlighter-rouge">Email</code>. By turn on <code class="language-plaintext highlighter-rouge">Attendee Form</code>, you will be able to collect more information from your attendees.</p>
+
+<p><img src="/images/How-can-I-add-a-form-to-collect-attendee-information-1.png" alt="Collect attendee information" /></p>
+
+<ol>
+  <li>Once <code class="language-plaintext highlighter-rouge">Attendee Form</code> has been turned on, you will see two other tables as below:</li>
+</ol>
+
+<ul>
+  <li>
+    <p><strong>Information to Collect</strong>: A list of additional questions provided by <strong>Eventyay</strong> for you to choose from. If you want to include any of these questions, slide the controller in front of each question to <code class="language-plaintext highlighter-rouge">Include</code> or <code class="language-plaintext highlighter-rouge">Require</code>.</p>
+  </li>
+  <li>
+    <p><strong>Add Custom Form Field</strong>: This feature allows you to add in any other questions to collect more answers/information from your attendees.</p>
+  </li>
+</ul>
+
+<p><img src="/images/How-can-I-add-a-form-to-collect-attendee-information-2.png" alt="Collect attendee information" /></p>
+
+<p><strong>Notice</strong>: If you want to use the <code class="language-plaintext highlighter-rouge">Custom Form Field</code>, simply input the question into <code class="language-plaintext highlighter-rouge">Field Name</code> and select the type of information you want to collect (<code class="language-plaintext highlighter-rouge">Text</code> or <code class="language-plaintext highlighter-rouge">Number</code>) from the dropdown menu.</p>
+
+<p><img src="/images/How-can-I-add-a-form-to-collect-attendee-information-add-custom-form-field.png" alt="Collect attendee information" /></p>
+
+<p>After you finish, select <code class="language-plaintext highlighter-rouge">Save Draft</code> to save your changes or publish your changes right away using the <code class="language-plaintext highlighter-rouge">Publish</code> button. You can also preview your changes in draft stage. Simply click <strong>Preview</strong> and see how your event would look like on the public event page once published.</p>
+:ET

@@ -1,0 +1,48 @@
+I"�<h1 id="how-do-i-sell-tickets-using-paypal">How do I sell tickets using PayPal?</h1>
+
+<p>You need to create an event before you can start selling tickets online. To learn how to create an event, check out <a href="http://support.eventyay.com/event-setup/How-can-I-create-an-event.html">How can I create an event on Eventyay</a>. Once you have done so, follow these steps to set up tickets and payment for your event.</p>
+
+<ol>
+  <li>Log in to your acocunt on <strong>Eventyay</strong>. Then select <code class="language-plaintext highlighter-rouge">Manage Events</code> from the dropdown menu under your profile.</li>
+</ol>
+
+<p><img src="../images/How-do-I-sell-tickets-using-PayPal-1.png" alt="Sell tickets using paypal" /></p>
+
+<ol>
+  <li>Go to the event you want to sell tickets and click on <code class="language-plaintext highlighter-rouge">Edit</code>.</li>
+</ol>
+
+<p><img src="../images/How-do-I-sell-tickets-using-PayPal-2.png" alt="Sell tickets using paypal" /></p>
+
+<ol>
+  <li>You will be directed to a page where you can edit <code class="language-plaintext highlighter-rouge">Basic Details</code> for your event. Scroll down to <code class="language-plaintext highlighter-rouge">Ticketing System</code> &amp; <code class="language-plaintext highlighter-rouge">Add payment details</code>. Please set up your paid tickets before adding <strong>payment details</strong>. If you are not sure how to do so, please check out this article: <a href="../tickets-payments/How-do-I-sell-tickets-online.md">How do I sell tickets online?</a></li>
+</ol>
+
+<p><img src="../images/How-do-I-sell-tickets-using-PayPal-3.png" alt="Sell tickets using paypal" /></p>
+
+<ol>
+  <li>After setting up your paid tickets, tick on <code class="language-plaintext highlighter-rouge">Payment by Paypal</code> under <code class="language-plaintext highlighter-rouge">Choose payment methods</code>.</li>
+</ol>
+
+<p><img src="../images/How-do-I-sell-tickets-using-PayPal-4.png" alt="Sell tickets using paypal" /></p>
+
+<ol>
+  <li>Input the email address associated with your paypal account to collect payment via paypal.</li>
+</ol>
+
+<p><img src="../images/How-do-I-sell-tickets-using-PayPal-5.png" alt="Sell tickets using paypal" /></p>
+
+<p>Once you’re done, click <code class="language-plaintext highlighter-rouge">Save</code> to save your changes or publish your changes right away using the <code class="language-plaintext highlighter-rouge">Publish</code> button. You can also preview the changes in draft stage, simply by clicking <code class="language-plaintext highlighter-rouge">View</code> button.</p>
+
+<ol>
+  <li>When the changes are published, people will see <strong>Paypal</strong> payment option when ordering tickets for your event.</li>
+</ol>
+
+<p><img src="../images/How-do-I-sell-tickets-using-PayPal-6.png" alt="Sell tickets using paypal" /></p>
+
+<ol>
+  <li>After filling in ticket holder’s information and <code class="language-plaintext highlighter-rouge">proceed to check out</code>, they’ll be directed to the next pay to view their order’s summary for the last time. And they can click on the integrated <strong>Paypal</strong> button to complete their order.</li>
+</ol>
+
+<p><img src="../images/How-do-I-sell-tickets-using-PayPal-7.png" alt="Sell tickets using paypal" /></p>
+:ET

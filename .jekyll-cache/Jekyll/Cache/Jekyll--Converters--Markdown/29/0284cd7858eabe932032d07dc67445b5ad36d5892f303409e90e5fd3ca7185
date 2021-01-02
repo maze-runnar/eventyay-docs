@@ -1,0 +1,35 @@
+I"3
+<h1 id="how-to-mark-offline-payment-as-received">How to mark offline payment as received?</h1>
+
+<p><strong>Offline payments</strong> are payments made via cheque, bank transfer or on-site. When a ticket is orderd using one of the offline payment options, that ticket will be labeled as <code class="language-plaintext highlighter-rouge">placed</code> in organizer’s dashboard.</p>
+
+<p>When an offline payment is received, the organizer needs to mark it as received by completing the steps as below.</p>
+
+<p><strong>Step 1:</strong> Log in to your account on <a href="https://eventyay.com/login">eventyay</a> then click on <code class="language-plaintext highlighter-rouge">Manage Events</code> from the drop-down menu under your profile.</p>
+
+<p><img src="../images/How-to-mark-offline-payment-as-received-0.png" alt="How-to-mark-offline-payment-as-received" /></p>
+
+<p><strong>Step 2:</strong> Go to the event you want to update the payment and click on <code class="language-plaintext highlighter-rouge">Event Dashboard</code>.</p>
+
+<p><img src="../images/How-to-mark-offline-payment-as-received-1.png" alt="How-to-mark-offline-payment-as-received" /></p>
+
+<p><strong>Step 3:</strong> Click on <code class="language-plaintext highlighter-rouge">Tickets</code> inside event management dashboard.</p>
+
+<p><img src="../images/How-to-mark-offline-payment-as-received-2.png" alt="How-to-mark-offline-payment-as-received" /></p>
+
+<p>You will be directed to a page with an overview of all your orders.</p>
+
+<p><img src="../images/How-to-mark-offline-payment-as-received-3.png" alt="How-to-mark-offline-payment-as-received" /></p>
+
+<p><strong>Step 4:</strong> Click on <code class="language-plaintext highlighter-rouge">Orders</code>, then click to view <code class="language-plaintext highlighter-rouge">Placed</code> orders. You will see a list of the orders (offline payment) that have been placed.</p>
+
+<p><img src="../images/How-to-mark-offline-payment-as-received-4.png" alt="How-to-mark-offline-payment-as-received" /></p>
+
+<p><strong>Step 5:</strong> After you have received payment for an order, click <code class="language-plaintext highlighter-rouge">Mark Completed</code> to update its status.</p>
+
+<p><img src="../images/How-to-mark-offline-payment-as-received-6.png" alt="How-to-mark-offline-payment-as-received" /></p>
+
+<p><strong>Step 6:</strong> You will be asked to reconfirm your action. Click <code class="language-plaintext highlighter-rouge">Yes</code> to proceed.</p>
+
+<p><img src="../images/How-to-mark-offline-payment-as-received-7.png" alt="How-to-mark-offline-payment-as-received" /></p>
+:ET

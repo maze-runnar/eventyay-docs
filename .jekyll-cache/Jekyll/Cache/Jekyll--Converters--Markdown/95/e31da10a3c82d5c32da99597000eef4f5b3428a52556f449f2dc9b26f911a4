@@ -1,0 +1,18 @@
+I"³<h1 id="where-can-i-submit-a-bug-report-or-feature-request">Where can I submit a bug report or feature request?</h1>
+
+<p>There are different repositories for different components of the <a href="https://github.com/fossasia?q=open-event">Open Event software suite</a> that is powering <a href="https://eventyay.com">eventyay.com</a>. If you are unsure where to post a bug report or feature request just create an issue in the <a href="https://github.com/fossasia/open-event-frontend/issues">Open Event Frontend</a> issue tracker, please. If this is related to another component we will move the issue where it belongs. In order to post issues you need a GitHub login.</p>
+
+<p>If you would like to talk to developers and contributors about issues you can also visit our <a href="https://gitter.im/fossasia/open-event">Gitter.im chat</a> or <a href="https://t.me/eventyay">Telegram channel here</a>.</p>
+
+<p>Below the list of issue trackers for the main components of the software:</p>
+
+<ol>
+  <li><a href="https://github.com/fossasia/open-event-frontend/issues">Open Event Frontend</a></li>
+  <li><a href="https://github.com/fossasia/open-event-server/issues">Open Event Server Backend</a></li>
+  <li><a href="https://github.com/fossasia/open-event-wsgen/issues">Open Event Website Generator</a></li>
+  <li><a href="https://github.com/fossasia/open-event-attendee-android/issues">Android Attendee App</a></li>
+  <li><a href="https://github.com/fossasia/open-event-organizer-android/issues">Android Organizer App</a></li>
+  <li><a href="https://github.com/fossasia/open-event-attendee-ios">iOS Attendee App</a></li>
+  <li><a href="https://github.com/fossasia/open-event-organizer-ios">iOS Organizer App</a></li>
+</ol>
+:ET

@@ -1,0 +1,16 @@
+I"<h1 id="how-do-i-accept-on-site-payments-at-the-door-for-tickets">How do I accept on-site payments at the door for tickets?</h1>
+
+<p>First of all, you need to complete configuring your <strong>Ticketing System</strong> (including ticket types, prices and quantity) before adding different payment options for your event. Check out this article to learn <a href="http://support.eventyay.com/tickets-payments/How-do-I-sell-tickets-online.html">how to set up your tickets</a>.</p>
+
+<p>Once you have done the first step, scroll down to <strong>Choose payment methods</strong> and tick on <code class="language-plaintext highlighter-rouge">YES, accept payment at the event (on site)</code> under <strong>Offline Payments</strong>.</p>
+
+<p><img src="../images/How-do-I-accept-on-site-payments-at-the-door-for-tickets-1.png" alt="How-do-I-accept-on-site-payments-at-the-door-for-tickets.md" /></p>
+
+<p>Then, fill in instructions for on-site payment. An example as below:</p>
+
+<p><img src="../images/How-do-I-accept-on-site-payments-at-the-door-for-tickets-2.png" alt="How-do-I-accept-on-site-payments-at-the-door-for-tickets.md" /></p>
+
+<p>Once you’re done, click <code class="language-plaintext highlighter-rouge">Save</code> to save your changes. You can also preview the changes in draft stage, simply by clicking <code class="language-plaintext highlighter-rouge">View</code> button.</p>
+
+<p><img src="../images/How-do-I-accept-on-site-payments-at-the-door-for-tickets-3.png" alt="How-do-I-accept-on-site-payments-at-the-door-for-tickets.md" /></p>
+:ET

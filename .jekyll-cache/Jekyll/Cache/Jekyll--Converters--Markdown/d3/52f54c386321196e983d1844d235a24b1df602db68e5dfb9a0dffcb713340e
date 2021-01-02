@@ -1,0 +1,35 @@
+I"R
+<h1 id="how-to-cancel-a-ticket-order">How to cancel a ticket order?</h1>
+
+<p>To cancel an order, there are a few steps that you can follow.</p>
+
+<h2 id="step-1-log-in">Step 1: Log in</h2>
+<p>In the first step, you will need to log into <code class="language-plaintext highlighter-rouge">Eventyay</code> using your <code class="language-plaintext highlighter-rouge">username</code> and <code class="language-plaintext highlighter-rouge">password</code>. 
+<img src="/images/Log-in-page.png" alt="Cancel ticket order" /></p>
+
+<h2 id="step-2-manage-event">Step 2: Manage event</h2>
+<p>After, select <code class="language-plaintext highlighter-rouge">manage event</code>, this can be found on the top of right hand corner by selecting the drop down menu. 
+<img src="/images/Manage-events-bar.png" alt="Cancel ticket order" /></p>
+
+<h2 id="step-3-event-management">Step 3: Event management</h2>
+<p>Then, choose the event where you have tickets needed to be cancelled, select <code class="language-plaintext highlighter-rouge">Event Dashboard</code>. 
+<img src="/images/How-to-cancel-a-ticket-order-6.png" alt="Cancel ticket order" /></p>
+
+<h2 id="step-4-ticket-cancellation">Step 4: Ticket cancellation</h2>
+<p>After selecting <code class="language-plaintext highlighter-rouge">Event Dashboard</code>, it will take you to your main <code class="language-plaintext highlighter-rouge">Event Management</code>page, on the menu bar, choose <code class="language-plaintext highlighter-rouge">Tickets</code>
+<img src="/images/How-to-cancel-a-ticket-order-1.png" alt="Cancel ticket order" /></p>
+
+<h2 id="step-5-viewing-orders">Step 5: Viewing orders</h2>
+<p>On the left hand side, select <code class="language-plaintext highlighter-rouge">orders</code>, you can directly view all tickets ordered (completed orders).
+<img src="/images/How-to-cancel-a-ticket-order-2.png" alt="Cancel ticket order" /></p>
+
+<p>Once you found the right ticket you want to cancel (you can also find ticket by typing an email address into the search box).
+<img src="/images/How-to-cancel-a-ticket-order-3.png" alt="Cancel ticket order" /></p>
+
+<p>Then you can see there is an <code class="language-plaintext highlighter-rouge">X</code> box right below the target ticket, if you have decided you want to cancel, click <code class="language-plaintext highlighter-rouge">X</code>. 
+The system will automatically ask you again if you want to delete the order, click <code class="language-plaintext highlighter-rouge">YES</code>. 
+<img src="/images/How-to-cancel-a-ticket-order-4.png" alt="Cancel ticket order" /></p>
+
+<p>Repeat these steps if you want to cancel more tickets.</p>
+
+:ET

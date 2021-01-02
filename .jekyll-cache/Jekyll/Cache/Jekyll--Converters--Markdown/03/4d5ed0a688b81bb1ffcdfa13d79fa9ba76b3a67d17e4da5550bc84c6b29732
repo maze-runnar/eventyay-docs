@@ -1,0 +1,74 @@
+I"<h1 id="how-to-add-speakers-and-sessions-settings-call-for-speakers-and-speakers-form">How to add speakers and sessions settings, call for speakers and speakers form?</h1>
+
+<p>In the article <a href="/event-setup/How-can-I-create-an-event?.md">How can I create an event</a>, we have gone through the 5 parts we need to include in each event, which are: <strong>Basic Details</strong>, <strong>Additional Info</strong>, <strong>Attendee Form</strong>, <strong>Sponsors</strong>, and <strong>Sessions &amp; Speakers</strong>. In this article, we will go into details how to add <code class="language-plaintext highlighter-rouge">speakers</code> and <code class="language-plaintext highlighter-rouge">sessions</code> settings, <code class="language-plaintext highlighter-rouge">call for speakers</code> and <code class="language-plaintext highlighter-rouge">speakers form</code>.</p>
+
+<p>First, go to your event and click on <code class="language-plaintext highlighter-rouge">Event Dashboard</code>. When you are at <strong>Sessions &amp; Speakers</strong> section, click <code class="language-plaintext highlighter-rouge">Turn on Sessions &amp; Speakers</code> to get started.</p>
+
+<p><img src="/images/How-to-add-speakers-and-sessions-settings-call-for-speakers-and-speakers-form1.png" alt="Call for Speakers" /></p>
+
+<h2 id="sessions-microlocations-session-types">Sessions, Microlocations, Session Types</h2>
+<p>Now you are required to provide inputs for <strong>Tracks</strong>, <strong>Microlocations</strong>, and <strong>Session Types</strong>. Hit the <code class="language-plaintext highlighter-rouge">+</code> to add one or more categories under each section or <code class="language-plaintext highlighter-rouge">-</code> button to delete them.</p>
+
+<p><img src="/images/How-to-add-speakers-and-sessions-settings-call-for-speakers-and-speakers-form2.png" alt="Call for Speakers" /></p>
+
+<ul>
+  <li>
+    <p><strong>Tracks:</strong>
+Add all the tracks that you are going to host during your event and give a different color to each of them.</p>
+  </li>
+  <li>
+    <p><strong>Microlocations:</strong>
+Provide details such as room names and their dedicated floors in the building (event’s venue).</p>
+  </li>
+  <li>
+    <p><strong>Session Types:</strong>
+Add the sessions types that speakers/presenters can choose from. Typically, there are <code class="language-plaintext highlighter-rouge">Standard Talk</code>, <code class="language-plaintext highlighter-rouge">Lightning Talk</code> and <code class="language-plaintext highlighter-rouge">Workshop</code>. You can also add more session types of your preferences.</p>
+  </li>
+</ul>
+
+<p>You can find a sample setting as below:</p>
+
+<p><img src="/images/How-to-add-speakers-and-sessions-settings-call-for-speakers-and-speakers-form3a.png" alt="Call for Speakers" /></p>
+
+<h2 id="call-for-speakers">Call for Speakers</h2>
+<p>Next, you can start to add  description for the <code class="language-plaintext highlighter-rouge">Call for Speakers</code> into the <strong>Annoucement</strong> box, set its start/end time and select the
+timezone. Here, you can also decide whether you want to display the <code class="language-plaintext highlighter-rouge">Call for Speakers</code> publicly or make private. If you set the <code class="language-plaintext highlighter-rouge">Call
+for Speakers</code> as private, proposals can only be submitted via the private link.</p>
+
+<p><img src="/images/How-to-add-speakers-and-sessions-settings-call-for-speakers-and-speakers-form4.png" alt="Call for Speakers" /></p>
+
+<h2 id="customize-registration-form">Customize Registration Form</h2>
+<p>The last step to complete before publishing the <code class="language-plaintext highlighter-rouge">Call for Speakers</code> is to define what kind of information you want to collect from your speakers and for their sessions. An overview of the information you can collect and customize as below:</p>
+
+<p><img src="/images/How-to-add-speakers-and-sessions-settings-call-for-speakers-and-speakers-form3.png" alt="Call for Speakers" /></p>
+
+<ul>
+  <li><strong>Collect Speaker Details:</strong>
+A list of additional questions provided by <strong>Eventyay</strong> for you to collect information from your speakers. If you want to include any of these questions, slide the controller in front of each question to <code class="language-plaintext highlighter-rouge">Include</code> or <code class="language-plaintext highlighter-rouge">Require</code>.</li>
+</ul>
+
+<p><img src="/images/How-to-add-speakers-and-sessions-settings-call-for-speakers-and-speakers-form5.png" alt="Call for Speakers" /></p>
+
+<ul>
+  <li><strong>Add Custom Form Field:</strong> 
+This feature allows you to add in any other questions to collect more answers/information from your speakers. If you want to use the <code class="language-plaintext highlighter-rouge">Custom Form Field</code>, simply input the question into <code class="language-plaintext highlighter-rouge">Field Name</code> and select the type of information you want to collect (<code class="language-plaintext highlighter-rouge">Text</code> or <code class="language-plaintext highlighter-rouge">Number</code>) from the dropdown menu.</li>
+</ul>
+
+<p><img src="/images/How-to-add-speakers-and-sessions-settings-call-for-speakers-and-speakers-form0.png" alt="Call for Speakers" /></p>
+
+<ul>
+  <li><strong>Collect Session Details:</strong>
+A list of additional questions provided by <strong>Eventyay</strong> for you to collect information from their sessions. If you want to include any of these questions, slide the controller in front of each question to <code class="language-plaintext highlighter-rouge">Include</code> or <code class="language-plaintext highlighter-rouge">Require</code>.</li>
+</ul>
+
+<p><img src="/images/How-to-add-speakers-and-sessions-settings-call-for-speakers-and-speakers-form6.png" alt="Call for Speakers" /></p>
+
+<ul>
+  <li><strong>Add Custom Form Field:</strong> 
+This is the same feature explained above, which allows you to add in any other questions to collect more answers/information from the proposed sessions.</li>
+</ul>
+
+<p><img src="/images/How-to-add-speakers-and-sessions-settings-call-for-speakers-and-speakers-form0.png" alt="Call for Speakers" /></p>
+
+<p>After you finish, select <code class="language-plaintext highlighter-rouge">Save Draft</code> to save your changes or publish your changes right away using the <code class="language-plaintext highlighter-rouge">Publish</code> button. You can also preview your changes in draft stage. Simply click <strong>Preview</strong> and see how your event would look like on the public event page once published.</p>
+:ET

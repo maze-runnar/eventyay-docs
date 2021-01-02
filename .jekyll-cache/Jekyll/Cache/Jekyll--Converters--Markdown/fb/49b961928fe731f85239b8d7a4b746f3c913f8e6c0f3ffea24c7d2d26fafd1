@@ -1,0 +1,210 @@
+I"s;<h1 id="event-support-faq">Event Support FAQ</h1>
+
+<p>On <a href="https://support.eventyay.com">support.eventyay.com</a> you find support information and answers to frequently asked questions for the <a href="https://eventyay.com">eventyay</a> platform. If you would like to:</p>
+<ul>
+  <li>get help via chat you can communicate with developers and the user community using our <a href="https://t.me/eventyay">Telegram</a> channel</li>
+  <li>submit bugs and feature requests use our <a href="https://github.com/fossasia/open-event-frontend/issues">GitHub Issue Tracker</a></li>
+  <li>talk to developers and maintainers about development and set up questions use <a href="https://gitter.im/fossasia/open-event">Gitter</a></li>
+  <li>help improve this FAQ you can start contributing on our dedicated <a href="https://github.com/fossasia/support.eventyay.com">repository here</a>.</li>
+</ul>
+
+<h2 id="1-support-for-organizers">1. Support for Organizers</h2>
+
+<h3 id="setting-up-your-event">Setting up Your Event</h3>
+
+<ul>
+  <li><a href="/event-setup/How-can-I-create-an-event">How can I create an event on eventyay?</a></li>
+  <li><a href="/event-setup/How-can-I-create-an-online-event-on-eventyay">How can I create an online event on eventyay?</a></li>
+  <li><a href="/event-setup/How-can-I-create-a-location-based-or-mixed-online-in-person-event">How can I create a location based or mixed online/in-person event?</a></li>
+  <li><a href="/event-setup/Can-I-set-up-an-event-with-multiple-dates">Can I set up an event with multiple dates?</a></li>
+  <li><a href="/event-setup/How-to-sell-tickets">How to sell tickets on eventyay?</a></li>
+  <li><a href="/event-setup/How-to-add-additional-information-such-as-event-type-links-refund-policy-terms-and-conditions-and-code-of-conduct">How to add additional information such as event type, links, refund policy, terms and conditions, and code of conduct?</a></li>
+  <li><a href="/event-setup/How-can-I-add-a-form-to-collect-attendee-information">How can I add a form to collect attendee information?</a></li>
+  <li><a href="/event-setup/How-to-add-a-sponsors-listing-to-my-event">How to add a sponsors listing to my event?</a></li>
+  <li><a href="/event-setup/How-to-add-speakers-and-sessions-settings-call-for-speakers-and-speakers-form">How to add speakers and sessions settings, call for speakers and speakers form?</a></li>
+</ul>
+
+<h3 id="pricing--billing">Pricing &amp; Billing</h3>
+
+<ul>
+  <li><a href="/pricing/How-much-does-it-cost-to-sell-tickets">How much does it cost to sell tickets on eventyay?</a></li>
+  <li><a href="/pricing/How-much-does-it-cost-to-use-eventyay-for-a-Call-for-Papers-or-Call-for-Speakers">How much does it cost to use eventyay for a Call for Papers or Call for Speakers?</a></li>
+  <li><a href="/pricing/What-plans-are-available-for-event-organizers">What plans are available for event organizers?</a></li>
+  <li><a href="/pricing/How-and-when-do-organizers-pay">How and when do organizers pay for using eventyay?</a></li>
+  <li><a href="/pricing/How-to-pay-eventyay-platform-fees-and-subscription-invoices">How to pay eventyay platform fees and subscription invoices?</a></li>
+  <li><a href="/pricing/I-am-receiving-invoices-I-thought-the-ticket-buyer-is-paying-the-fees-Why-am-I-receiving-invoices">I am receiving invoices, I thought the ticket buyer is paying the fees. Why am I receiving invoices?</a></li>
+  <li><a href="/pricing/When-are-payments-due">When are payments due?</a></li>
+  <li><a href="/pricing/How-do-I-see-the-itemized-fees-for-all-of-my-orders">How do I see the itemized fees for all of my orders?</a></li>
+  <li><a href="/pricing/Can-I-pay-my-invoice-with-my-credit-card-or-directly-from-my-bank-account">Can I pay my invoice with my credit card or directly from my bank account?</a></li>
+  <li><a href="/pricing/If-I-dont-want-to-pay-this-invoice-online-can-I-send-you-a-check-in-the-mail">If I don’t want to pay this invoice online, can I send you a check in the mail?</a></li>
+  <li><a href="/pricing/Can-I-pay-all-of-my-invoices-at-once">Can I pay all of my invoices at once?</a></li>
+  <li><a href="/pricing/What-happens-if-I-refund-a-transaction-after-I-pay-my-invoice-Can-I-get-a-fee-refund">What happens if I refund a transaction after I pay my invoice? Can I get a fee refund?</a></li>
+  <li><a href="/pricing/How-often-will-I-receive-an-invoice">How often will I receive an invoice?</a></li>
+</ul>
+
+<h3 id="tickets--payments">Tickets &amp; Payments</h3>
+
+<ul>
+  <li><a href="/tickets-payments/How-do-I-sell-tickets-online">How do I sell tickets online?</a></li>
+  <li><a href="/tickets-payments/How-do-I-sell-tickets-using-PayPal">How do I sell tickets using PayPal?</a></li>
+  <li><a href="/tickets-payments/How-do-I-sell-tickets-using-Stripe">How do I sell tickets using Stripe?</a></li>
+  <li><a href="/tickets-payments/How-do-I-accept-cheque-and-bank-transfer-for-ticket-payments">How do I accept cheque and bank transfer for ticket payments?</a></li>
+  <li><a href="/tickets-payments/How-to-confirm-pending-orders">How to confirm pending orders?</a></li>
+  <li><a href="/tickets-payments/How-do-I-accept-on-site-payments-at-the-door-for-tickets">How do I accept on-site payments at the door for tickets?</a></li>
+  <li><a href="/tickets-payments/How-to-mark-offline-payment-as-received">How to mark offline payments as received?</a></li>
+  <li><a href="/tickets-payments/Are-fees-included-in-the-ticket-sales">Are fees included in the ticket sales?</a></li>
+  <li><a href="/tickets-payments/What-currencies-are-supported-for-ticket-sales">What currencies are supported for ticket sales?</a></li>
+  <li><a href="/tickets-payments/Can-I-sell-tickets-or-allow-registration-on-my-own-website-using-an-embeddable-widget">Can I sell tickets or allow registration on my own website using an embeddable widget?</a></li>
+</ul>
+
+<h3 id="tax--invoices">Tax &amp; Invoices</h3>
+
+<ul>
+  <li><a href="/tax-invoices/Can-I-collect-tax-in-my-ticket-sales">Can I collect tax in my ticket sales?</a></li>
+  <li><a href="/tax-invoices/Can-I-issue-invoices-for-my-ticket-sales">Can I issue invoices for my ticket sales?</a></li>
+  <li><a href="/tax-invoices/Can-I-set-my-company-logo-and-billing-information-in-receipts-invoices">Can I set my company logo and billing information in receipts/invoices?</a></li>
+</ul>
+
+<h3 id="promotions--discounts">Promotions &amp; Discounts</h3>
+
+<ul>
+  <li><a href="/promotions-discounts/How-to-create-a-discount-code-for-tickets">How to create a discount code for tickets?</a></li>
+  <li><a href="/promotions-discounts/How-to-add-an-expiry-date-to-a-discount-code">How to add an expiry date to a discount code?</a></li>
+</ul>
+
+<h3 id="cancellations--refunds">Cancellations &amp; Refunds</h3>
+
+<ul>
+  <li><a href="/cancellations-refunds/How-to-cancel-a-ticket-order">How to cancel a ticket order?</a></li>
+  <li><a href="/cancellations-refunds/How-to-set-a-refund-policy">How to set a refund policy?</a></li>
+  <li><a href="/cancellations-refunds/How-do-I-issue-refunds">How do I issue refunds?</a></li>
+  <li><a href="/cancellations-refunds/How-do-I-issue-refunds-via-PayPal">How do I issue refunds via PayPal?</a></li>
+  <li><a href="/cancellations-refunds/How-do-I-issue-refunds-via-Stripe">How do I issue refunds via Stripe?</a></li>
+  <li><a href="/cancellations-refunds/Can-I-do-partial-refund">Can I do partial refund?</a></li>
+  <li><a href="/cancellations-refunds/Does-eventyay-charge-for-attendees-who-get-a-refund">Does eventyay charge for attendees who get a refund?</a></li>
+  <li><a href="/cancellations-refunds/How-to-cancel-my-event">How to cancel my event?</a></li>
+</ul>
+
+<h3 id="managing-orders--attendees">Managing Orders &amp; Attendees</h3>
+
+<ul>
+  <li><a href="/orders-attendees/How-to-view-reports-on-sales-and-registered-attendees">How to view reports on sales and registered attendees?</a></li>
+  <li><a href="/orders-attendees/How-to-contact-attendees-of-an-event">How to contact attendees of an event?</a></li>
+  <li><a href="/orders-attendees/How-to-export-and-download-the-attendees-list-of-my-event">How to export and download the attendees list of my event?</a></li>
+  <li><a href="/orders-attendees/How-to-export-and-download-the-orders-list-of-my-event">How to export and download the orders list of my event?</a></li>
+  <li><a href="/orders-attendees/How-to-resend-confirmation-emails-for-ticket-orders">How to resend confirmation emails for ticket orders?</a></li>
+  <li><a href="/orders-attendees/How-to-edit-orders-and-attendee-details">How to edit orders and attendee details?</a></li>
+</ul>
+
+<h3 id="check-in-management">Check-In Management</h3>
+
+<ul>
+  <li><a href="/check-in/How-to-manage-or-track-attendees-check-in-at-the-event">How to manage or track attendees check-in at the event?</a></li>
+  <li><a href="/check-in/How-to-manage-or-track-attendees-check-in-at-the-event-with-the-organizer-mobile-app">How to manage or track attendees check-in at the event with the organizer mobile app?</a></li>
+</ul>
+
+<h3 id="event-roles">Event Roles</h3>
+
+<ul>
+  <li><a href="/event-roles/How-to-add-other-organizers-moderators-and-volunteers-to-an-event">How to add other organizers, moderators and volunteers to an event?</a></li>
+  <li><a href="/event-roles/How-to-control-the-permissions-of-team-members">How to control the permissions of team members?</a></li>
+  <li><a href="/event-roles/How-to-transfer-the-ownership-of-an-event">How to transfer the ownership of an event?</a></li>
+</ul>
+
+<h3 id="marketing--analytics">Marketing &amp; Analytics</h3>
+
+<ul>
+  <li><a href="/marketing-analytics/How-to-include-images-in-event-details">How to include images in event details?</a></li>
+  <li><a href="/marketing-analytics/How-to-add-a-Twitter-account-feed-to-your-event-page">How to add a Twitter account feed to your event page?</a></li>
+</ul>
+
+<h3 id="speakers--sessions-management">Speakers &amp; Sessions Management</h3>
+
+<ul>
+  <li><a href="/speakers-sessions/How-to-accept-confirm-reject-speaker-submissions">How to accept, confirm or reject a speaker submission?</a></li>
+  <li><a href="/speakers-sessions/What-are-the-different-submission-states-such-as-draft-accepted-rejected-confirmed-and-withdrawn">What are the different submission states such as draft, accepted, rejected, confirmed and withdrawn?</a></li>
+  <li><a href="/speakers-sessions/How-can-I-notify-speakers-if-their-session-is-accepted-or-rejected">How can I notify speakers if their session is accepted or rejected?</a></li>
+  <li><a href="/speakers-sessions/What-is-the-difference-between-an-accepted-session-and-a-confirmed-session">What is the difference between an accepted session and a confirmed session?</a></li>
+  <li><a href="/speakers-sessions/As-an-event-organizer-how-can-I-add-a-speaker-or-session-into-the-system">As an event organizer how can I add a speaker or session into the system?</a></li>
+</ul>
+
+<h3 id="schedule--event-pages">Schedule &amp; Event Pages</h3>
+
+<ul>
+  <li><a href="/schedule-event-pages/How-to-feature-speakers-on-the-event-main-page">How to feature speakers on the event main page?</a></li>
+  <li><a href="/schedule-event-pages/How-to-create-an-event-schedule">How to create an event schedule?</a></li>
+  <li><a href="/schedule-event-pages/How-to-schedule-speakers-and-sessions">How to schedule speakers and sessions?</a></li>
+</ul>
+
+<h3 id="export--website-generator">Export &amp; Website Generator</h3>
+
+<ul>
+  <li><a href="/export-site-generator/How-can-I-export-an-event">How can I export an event?</a></li>
+  <li><a href="/export-site-generator/How-can-I-create-a-static-website-using-the-API-link-of-my-event">How can I create a static website using the API link of my event?</a></li>
+</ul>
+
+<h2 id="2-support-for-attendees">2. Support for Attendees</h2>
+
+<h3 id="ticketing">Ticketing</h3>
+
+<ul>
+  <li><a href="/attendees/How-to-buy-a-tickets-on-eventyay">How to buy tickets on eventyay?</a></li>
+  <li><a href="/attendees/How-to-apply-a-discount-code-to-your-order">How to apply a discount code to your order?</a></li>
+  <li><a href="/attendees/Where-are-my-tickets">Where are my tickets?</a></li>
+  <li><a href="/attendees/Do-I-need-to-print-my-tickets-for-in-person-events">Do I need to print my tickets for in person events?</a></li>
+</ul>
+
+<h3 id="refunds">Refunds</h3>
+
+<ul>
+  <li><a href="/attendees/Where-to-find-the-refund-policy-of-an-event">Where to find the refund policy of an event?</a></li>
+  <li><a href="/attendees/How-to-get-a-refund-if-I-need-to-cancel-my-ticket-to-the-event">How to get a refund if I need to cancel my ticket to the event?</a></li>
+  <li><a href="/attendees/How-to-get-a-refund-if-the-organizer-cancels-the-event">How to get a refund if the organizer cancels the event?</a></li>
+</ul>
+
+<h3 id="other-questions-and-contact">Other Questions and Contact</h3>
+
+<ul>
+  <li><a href="/questions-contact/How-to-contact-organizers-of-an-event">How to contact organizers of an event?</a></li>
+</ul>
+
+<h2 id="3-support-for-speakers">3. Support for Speakers</h2>
+
+<h3 id="session-submissions">Session Submissions</h3>
+
+<ul>
+  <li><a href="/speakers/How-do-I-submit-a-session">How do I submit a session?</a></li>
+  <li><a href="/speakers/Where-can-I-find-my-session-submissions">Where can I find my session submissions?</a></li>
+  <li><a href="/speakers/How-do-I-know-if-my-session-was-accepted-or-rejected">How do I know if my session was accepted or rejected?</a></li>
+  <li><a href="/speakers/I-am-no-longer-able-to-participate-as-a-speaker-at-an-event-how-can-I-withdraw-my-submission">I am no longer able to participate as a speaker at an event, how can I withdraw my submission?</a></li>
+</ul>
+
+<h2 id="4-other-user-questions">4. Other User Questions</h2>
+
+<h3 id="sign-up-login-account">Sign up, Login, Account</h3>
+
+<ul>
+  <li><a href="/signup-login-account/I-did-not-receive-a-sign-up-verification-or-ticket-email-what-to-do">I did not receive a sign up, verification or ticket email, what to do?</a></li>
+</ul>
+
+<h3 id="privacy-and-data-security">Privacy and Data Security</h3>
+
+<ul>
+  <li><a href="/privacy-data-security/is-the-service-GDPR-compliant">Is the service GDPR compliant?</a></li>
+  <li><a href="/privacy-data-security/how-can-I-delete-my-account">How can I delete my account?</a></li>
+</ul>
+
+<h2 id="5-support-for-contributors-and-developers">5. Support for Contributors and Developers</h2>
+
+<h3 id="development-roadmap-bugs-feature-requests">Development, Roadmap, Bugs, Feature Requests</h3>
+
+<ul>
+  <li><a href="/contributors-developers/Who-develops-eventyay">Who develops eventyay?</a></li>
+  <li><a href="/contributors-developers/What-is-the-roadmap-of-the-platform">What is the roadmap of the platform?</a></li>
+  <li><a href="/contributors-developers/Where-can-I-submit-a-bug-report-or-feature-request">Where can I submit a bug report or feature request?</a></li>
+  <li><a href="/contributors-developers/How-can-I-set-up-the-system-myself">How can I set up the system myself?</a></li>
+  <li><a href="/contributors-developers/How-can-I-contact-the-developers">How can I contact the developers?</a></li>
+  <li><a href="/contributors-developers/How-can-I-contribute-and-help-to-improve-this-support-site">How can I contribute and help to improve this support site?</a></li>
+</ul>
+
+:ET

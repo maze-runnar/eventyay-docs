@@ -1,0 +1,50 @@
+I"ñ<h1 id="how-to-create-a-discount-code-for-tickets">How to create a discount code for tickets?</h1>
+<p>To provide a discount code to attendees, please follow these steps:</p>
+
+<h2 id="step-1-log-in">Step 1: Log in</h2>
+<p><code class="language-plaintext highlighter-rouge">Log in</code> by using your <code class="language-plaintext highlighter-rouge">username</code> and <code class="language-plaintext highlighter-rouge">password</code></p>
+
+<p><img src="/images/Log-in-page.png" alt="Discount code" /></p>
+
+<h2 id="step-2-manage-event">Step 2: Manage Event</h2>
+<p>On the top right hand corner, click on the drop down button, select <code class="language-plaintext highlighter-rouge">manage event</code>.</p>
+
+<p><img src="/images/Manage-events-bar.png" alt="Discount code" /></p>
+
+<h2 id="step-3-event-dashboard">Step 3: Event dashboard</h2>
+<p>Select the event you want to create a <code class="language-plaintext highlighter-rouge">discount code</code> for, then select <code class="language-plaintext highlighter-rouge">Event dashboard</code>.</p>
+
+<p><img src="/images/How-to-create-a-discount-code-for-tickets-8.png" alt="Discount code" /></p>
+
+<h2 id="step-4-tickets">Step 4: Tickets</h2>
+<p>On the main menu bar, you can see the <code class="language-plaintext highlighter-rouge">tickets</code> option, select <code class="language-plaintext highlighter-rouge">tickets</code> to proceed to the next step.</p>
+
+<p><img src="/images/How-to-create-a-discount-code-for-tickets-1.png" alt="Discount code" /></p>
+
+<h2 id="step-5-discount-code">Step 5: Discount code</h2>
+<p>The <code class="language-plaintext highlighter-rouge">discount code</code>button is on the left hand side, click <code class="language-plaintext highlighter-rouge">discount code</code>, the choose the <code class="language-plaintext highlighter-rouge">+ Create a discount</code></p>
+
+<p><img src="/images/How-to-create-a-discount-code-for-tickets-3.png" alt="Discount code" /></p>
+
+<p><img src="/images/How-to-create-a-discount-code-for-tickets-2.png" alt="Discount code" /></p>
+
+<h2 id="step-6-fill-in-your-details">Step 6: Fill in your details</h2>
+<p>Give your discount code a name (For example: FOSSASIA, and please note that the code should be in uppercase format with no space in between)</p>
+
+<p>You can provide the amount of discount by providing either <code class="language-plaintext highlighter-rouge">amount</code> or <code class="language-plaintext highlighter-rouge">percent</code>.</p>
+
+<p>For <code class="language-plaintext highlighter-rouge">amount</code>, Eventyay currently offers Singaporean Dollars only, if you use a different currency for your event, please select ` percent` instead.</p>
+
+<p>For a discount code to be valid, its <code class="language-plaintext highlighter-rouge">status</code> should be <code class="language-plaintext highlighter-rouge">active</code>.</p>
+
+<p>You can select the tickets that can be used with the discount code for <code class="language-plaintext highlighter-rouge">all ticket types</code> or <code class="language-plaintext highlighter-rouge">standard community</code> only.</p>
+
+<p><img src="/images/How-to-create-a-discount-code-for-tickets-4.png" alt="Discount code" /></p>
+
+<p>After filling out all information, you can see the discount link. You can provide the discount code to attendees by sending them the link or the code itself.</p>
+
+<p><img src="/images/How-to-create-a-discount-code-for-tickets-5.png" alt="Discount code" /></p>
+
+<p>Finally, select <code class="language-plaintext highlighter-rouge">Save</code>.</p>
+
+:ET

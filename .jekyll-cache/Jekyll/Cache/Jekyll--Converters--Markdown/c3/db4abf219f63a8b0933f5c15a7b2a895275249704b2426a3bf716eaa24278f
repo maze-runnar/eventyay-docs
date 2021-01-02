@@ -1,0 +1,38 @@
+I"'<h1 id="how-do-i-accept-cheque-and-bank-transfer-for-ticket-payments">How do I accept cheque and bank transfer for ticket payments?</h1>
+
+<p>To accept either cheque or bank transfer, there are a few steps you can follow.</p>
+
+<p>First, log into <code class="language-plaintext highlighter-rouge">Eventyay</code> using your <code class="language-plaintext highlighter-rouge">Username</code> and <code class="language-plaintext highlighter-rouge">Password</code>.</p>
+
+<p><img src="/images/Log-in-page.png" alt="Cheque and bank transfer" /></p>
+
+<p>On the top right corner of the page, select <code class="language-plaintext highlighter-rouge">manage event</code>.</p>
+
+<p><img src="/images/Manage-events-bar.png" alt="Cheque and bank transfer" /></p>
+
+<p>Then, choose the event which you want to edit, select edit.</p>
+
+<p><img src="/images//How-do-I-accept-cheque-and-bank-transfer-for-ticket-payments-3.png" alt="Cheque and bank transfer" /></p>
+
+<p>This will take you to the main editing page, stay on <code class="language-plaintext highlighter-rouge">basic details</code>, make sure you have filled out all information needed. If you haven’t done so, please visit <a href="http://support.eventyay.com/event-setup/How-can-I-create-an-event.html">How can I create an event on Eventyay?</a> to learn how.</p>
+
+<p><img src="/images/How-do-I-accept-cheque-and-bank-transfer-for-ticket-payments-4.png" alt="Cheque and bank transfer" /></p>
+
+<p>On <code class="language-plaintext highlighter-rouge">basic detail</code>, scroll down, then you can see the <code class="language-plaintext highlighter-rouge">offline payments</code>, under <code class="language-plaintext highlighter-rouge">choose payment methods</code></p>
+
+<p><img src="/images/How-do-I-accept-cheque-and-bank-transfer-for-ticket-payments-5.png" alt="Cheque and bank transfer" /></p>
+
+<h2 id="1-to-accept-cheque">1. To accept cheque</h2>
+<p>Select <code class="language-plaintext highlighter-rouge">Yes, accept payment by cheque</code>, there will be a box to put in your account details</p>
+
+<p><img src="/images/How-do-I-accept-cheque-and-bank-transfer-for-ticket-payments-6.png" alt="Cheque and bank transfer" /></p>
+
+<h2 id="2-to-accept-bank-transfer">2. To accept bank transfer</h2>
+<p>To accept bank transfer, select <code class="language-plaintext highlighter-rouge">Yes, accept payment my telegraphic transfer(TT)/ Bank Transfer</code>, please note that depends on the country where you are operating, you might need to prodvide a SWIFT code (an international bank code that identifies particular banks worldwide). It’s also known as a Bank Identifier Code (BIC).</p>
+
+<p><img src="/images/How-do-I-accept-cheque-and-bank-transfer-for-ticket-payments-7.png" alt="Cheque and bank transfer" /></p>
+
+<p>After all information is filled out, you can select <code class="language-plaintext highlighter-rouge">Save as draft</code> or <code class="language-plaintext highlighter-rouge">Publish</code> your event.</p>
+
+<p><img src="/images/How-do-I-accept-cheque-and-bank-transfer-for-ticket-payments-8.png" alt="Cheque and bank transfer" /></p>
+:ET
